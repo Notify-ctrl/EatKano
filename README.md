@@ -12,11 +12,9 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：逗笑小徐盛
 
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Page](https://arcxingye.github.io/EatKano/index.html)
+[Github Page](https://notify-ctrl.github.io/EatKano/index.html)
 
 ## 可选功能
 
